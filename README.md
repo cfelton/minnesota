@@ -2,7 +2,8 @@
 **NOTE** the following is a work-in-progress (WIP) and has not reached
 a minor release point.  If you happen to come across this public repository
 feel free to try it out and contribute.  This repository will
-be unstable until the first minor release 0.1. 
+be unstable until the first minor release 0.1.  This project will be 
+renamed soon ...
  
 [![Documentation Status](https://readthedocs.org/projects/minnesota/badge/?version=latest)](https://readthedocs.org/projects/minnesota/?badge=latest) 
 [![Build Status](https://travis-ci.org/cfelton/minnesota.svg)](https://travis-ci.org/cfelton/minnesota) 
@@ -158,3 +159,8 @@ systems using the cores and various tools and target a particular FPGA
 development board.  As mentioned above the examples have an additional 
 dependency, [gizflo]() to create the actual bitstreams.  
 
+
+myhdl test version log
+----------------------
+   - [ ] head
+   - [x] `db36c4f`
