@@ -3,7 +3,7 @@
 a minor release point.  If you happen to come across this public repository
 feel free to try it out and contribute.  This repository will
 be unstable until the first minor release 0.1.  This project will be 
-renamed soon ...
+renamed soon (`rhea`) ...
  
 [![Documentation Status](https://readthedocs.org/projects/minnesota/badge/?version=latest)](https://readthedocs.org/projects/minnesota/?badge=latest) 
 [![Build Status](https://travis-ci.org/cfelton/minnesota.svg)](https://travis-ci.org/cfelton/minnesota) 
