@@ -162,5 +162,5 @@ dependency, [gizflo]() to create the actual bitstreams.
 
 myhdl test version log
 ----------------------
-   - [ ] head
+   - [ ] latest
    - [x] `db36c4f`
